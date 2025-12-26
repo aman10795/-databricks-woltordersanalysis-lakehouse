@@ -1,0 +1,1 @@
+describes fact tables, dimensions, scd used in the project
